@@ -4,8 +4,8 @@
 [github](github.com/michaelroberts27)
 
 ### Education
- - Graduated from **Canyon Crest Academy High School**
- - Currently enrolled at **MiraCosta Collage**, second year
+ - Graduated from Canyon Crest Academy High School
+ - Currently enrolled at MiraCosta Collage, second year
  
 ### Skills
  - Primarily familiar with Java
